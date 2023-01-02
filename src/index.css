@@ -1,0 +1,54 @@
+.card-title{
+  border: 1px solid black;
+  width:50%;
+  background: #AACFF7;
+}
+.card{
+  align-items: center;
+  justify-content: center;
+  margin: 2% auto;
+  border: 5px solid black;
+  width: 90%;
+  height: 100%;
+  border-radius: 20px;
+  background-image: url('https://wallpaperaccess.com/full/1540005.jpg');
+}
+.date-time{
+  display: block;
+  border: 2px solid  skyblue;
+  width: 135px;
+  border-radius: 50%;
+  height: 135px;
+  text-align: center;
+background:skyblue;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+input[type=text], select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: large;
+  font-weight: 200;
+}
+input[type=submit] {
+  width: 50%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: large;
+}
+.result{
+  width:max-content;
+  border: 1px solid black;
+  background:  rgb(66, 66, 66);
+  color: aliceblue;
+}
+
+
